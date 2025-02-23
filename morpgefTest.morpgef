@@ -1,0 +1,4 @@
+<BEG animatedImage,app0:/testImage.png,96,90,[[24,339,96,90]],1,0.1>
+<DEFCOORDS [0,96,192,288,384,480,576,672,768,864],[0,90,180,270,360,450,540]>
+<BEG launchEventObject,app0:/testImage.png,41,111,[[374,4,41,111]],1,0.1,testDialog,true>
+<DEFCOORDS [200],[0]>
