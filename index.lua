@@ -1,3 +1,4 @@
+--this is a sample project that uses openRPGEngine
 dofile("app0:/openRPGEngine.lua")
 color=Color.new(255,255,255)
 dialogFont=Font.load("app0:/Arial.ttf")
